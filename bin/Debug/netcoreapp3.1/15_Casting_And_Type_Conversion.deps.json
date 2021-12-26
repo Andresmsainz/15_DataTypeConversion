@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "15_Casting_And_Type_Conversion/1.0.0": {
+        "runtime": {
+          "15_Casting_And_Type_Conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15_Casting_And_Type_Conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

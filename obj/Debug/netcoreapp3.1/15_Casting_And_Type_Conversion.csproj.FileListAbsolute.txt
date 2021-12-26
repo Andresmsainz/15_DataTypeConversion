@@ -1,0 +1,12 @@
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.exe
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.deps.json
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.runtimeconfig.json
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.runtimeconfig.dev.json
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.dll
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\bin\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.pdb
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.AssemblyInfoInputs.cache
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.AssemblyInfo.cs
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.dll
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.pdb
+C:\SRC\CSharp\15_Casting_And_Type_Conversion\obj\Debug\netcoreapp3.1\15_Casting_And_Type_Conversion.genruntimeconfig.cache
